@@ -5,5 +5,7 @@
  5. Update database connection settings in the PHP config file (host, database name, user, password).
  6. Open the website in a browser and check that it works.
 
- 
- tunedup.eigiva.lt
+ ## Contributors
+
+- @moredax — backend
+- @fronxod-f — frontend
