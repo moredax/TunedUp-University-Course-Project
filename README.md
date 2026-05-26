@@ -4,3 +4,6 @@
  4. Import the .sql file into the server database via phpMyAdmin.
  5. Update database connection settings in the PHP config file (host, database name, user, password).
  6. Open the website in a browser and check that it works.
+
+ 
+ tunedup.eigiva.lt
