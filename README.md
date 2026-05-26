@@ -9,3 +9,4 @@
 
 - @moredax — backend
 - @fronxod-f — frontend
+- @farb4 - idea and design
